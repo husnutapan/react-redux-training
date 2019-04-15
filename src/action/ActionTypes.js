@@ -1,0 +1,4 @@
+
+export const USER_LOGIN_DATA = "USER_LOGIN_DATA";
+
+export const SERVER_TIME_DATA = "SERVER_TIME_DATA";
